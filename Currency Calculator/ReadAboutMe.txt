@@ -1,0 +1,10 @@
+#Currency Calculator 
+
+###This file have a JAR file 
+###Verify that Java is installed on your computer
+####Confirm the computer’s PATH variable includes Java’s \bin directory
+####Double-click the JAR file if auto-run has been configured
+####Run the JAR file on the command line or terminal window if a double-clicking fails
+
+
+#This is a currency calculator which allows users to determine the exchange amount base on the currency they have to the currecy they would like to exchange.
